@@ -3,6 +3,8 @@
 My name is **Pouya Moazzezi** and I'm a Programmer, Frontend Developer and a Film Director!  😃
 <br>
 Mostly I code as a hobby.
+<br>
+Feel Free to leave comment or suggestions on my projects. You're welcome to fork them too, adding something to them or fix bugs! 😍
 <div>
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programming gif"/>
   </div>
