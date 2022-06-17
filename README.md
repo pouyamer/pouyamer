@@ -23,7 +23,7 @@ Mostly I code as a hobby.
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
   ## My Projects
-  You can visit my fun projects om my [Codepen](https://codepen.io/pouyamer) 😃
+  You can visit my fun projects on my [Codepen](https://codepen.io/pouyamer) 😃
   <br>
   And on my Github... obviously 😅
   
