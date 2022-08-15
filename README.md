@@ -27,7 +27,8 @@ Feel Free to leave comment or suggestions on my projects. You're welcome to fork
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
   ## My Projects
-  You can visit my fun projects on my [Codepen](https://codepen.io/pouyamer) 😃
+  You'll find a lot of canvas projects here cuz I love doing them.
+  Also You can visit my fun projects on my [Codepen](https://codepen.io/pouyamer) 😃
   <br>
   And on my Github... obviously 😅
   
