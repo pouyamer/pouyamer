@@ -42,7 +42,11 @@ Feel Free to leave comment or suggestions on my projects. You're welcome to fork
   <a href="https://twitter.com/pouyamer">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
   </a>
-  
+  <br>
+![GitHub Streak](https://streak-stats.demolab.com?user=pouyamer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+ 
+
   
   
   
