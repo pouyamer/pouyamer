@@ -1,11 +1,14 @@
 # Hello There!
 
-My name is **Pouya Moazzezi** and I'm a Programmer, Frontend Developer and a Film Director!  😃
+Hey there! I'm ***Pouya Moazzezi***. You know, I've always been the kind of person who loves to dive headfirst into new challenges, and right now, that's all about becoming a **Frontend Developer**. I'm not quite there yet, but I'm putting in the hours, learning all I can, and loving every minute of it. 😃
+
+When I'm not coding, you'll probably find me immersed in a good film. There's something about the storytelling, the visuals, the whole creative process that just gets me. It's a passion that spills over into my love for design and aesthetics.
+
+Now, I'm a big believer in the power of collaboration and the open-source ethos. So, if you stumble across any of my projects and have some thoughts or suggestions, I'd love to hear them. And if you want to fork them, add your own spin, or squash a bug or two, go for it! 😍
+
+I'm always up for a chat about tech, films, or pretty much anything else. So, if you're interested in bouncing around some ideas or just want to say hi, don't be a stranger. Let's see what we can create together
 <br>
-Mostly I code as a hobby.
 <br>
-Feel Free to leave comment or suggestions on my projects. You're welcome to fork them too, adding something to them or fix bugs! 😍
-<div>
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programming gif"/>
   </div>
   
@@ -36,14 +39,16 @@ Feel Free to leave comment or suggestions on my projects. You're welcome to fork
   <a href="https://www.instagram.com/pouyamer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
+  <br>
   <a href="https://www.t.me/pouyamer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
+  <br>
   <a href="https://twitter.com/pouyamer">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
   </a>
   <br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=pouyamer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 
   
