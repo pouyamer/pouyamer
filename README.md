@@ -33,9 +33,10 @@ I'm always up for a chat about tech, films, or pretty much anything else. So, if
   ## Skills | مهارت های من
   ### I'm confident on these parts:
   ### روی این قسمت ها تسلط دارم:
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](#)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&llogo=jira&logoColor=fff)](#)
   ### After that:
   ### بعدش:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
